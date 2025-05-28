@@ -20,4 +20,11 @@ public class PaymentSystem {
         }
         return true;
     }
+
+    @Override
+    public String toString() {
+        return "PaymentSystem{" +
+                "balance=" + balance +
+                '}';
+    }
 }

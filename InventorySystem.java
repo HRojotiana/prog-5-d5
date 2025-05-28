@@ -29,7 +29,7 @@ public class InventorySystem {
     public String toString() {
         return "InventorySystem{" +
                 "waterQuantity=" + waterQuantity +
-                ", coffeQuantity=" + coffeeQuantity +
+                ", coffeeQuantity=" + coffeeQuantity +
                 '}';
     }
 }
